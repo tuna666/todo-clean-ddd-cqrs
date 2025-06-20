@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/tuna666/todo-clean-ddd-cqrs/domain/todo"
+import "github.com/tuna666/todo-clean-ddd-cqrs/internal/domain/todo"
 
 // Command 層
 type CreateTodoCommand struct {
